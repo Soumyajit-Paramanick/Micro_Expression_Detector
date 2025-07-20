@@ -1,0 +1,43 @@
+# train and val data
+train: ../dataset/images/train/
+val: ../dataset/images/val/
+
+# number of classes
+nc: 34
+
+# class names
+names: [
+'Angry_Nostril_Flare',
+'Angry_disgust',
+'BlankJoy_Micro_Expression',
+'Blink_NA',
+'Blink_NA_type1',
+'Blink_NA_type2',
+'Brow_Lowerer_Blink_Surprise',
+'Brow_Upper_Cheek_Raiser_Lid_Tightener_Disgust',
+'Brow_Upper_Cheek_Raiser_Nostril_Dilator_Anger',
+'Fearful_Disgust',
+'Lip_Corner_Puller_Happiness',
+'Lip_Corner_Puller_Lip_Pressor_Happiness',
+'Nose_Wrinkler_Disgust',
+'Positive_Micro_Expression_Happiness',
+'Surprised_Joy',
+'Brow_Lowerer_Disgust',
+'Brow_Lowerer_Micro_Expression_Painful_Distress',
+'Dimpler_Fear',
+'Disgust_Override',
+'Disgusted_Brow_Lowering',
+'Duchenne_Smile',
+'Eclectic_Bliss',
+'Inner_Brow_Raiser',
+'Joyful_Startle_Micro_Expression',
+'Lid_Tightener_Disgust',
+'Lip_Corner_Puller_Blink_Disgust',
+'Lip_Pressor_Surprise',
+'Negative_Micro_Expression_Disgust',
+'Nostril_Compressor_NA',
+'Outer_Brow_Raiser',
+'Surprise_with_Disgust_Overlay',
+'Upper_Lid_Raiser_Fear',
+'Upper_Lid_Raiser_Lip_Corner_Puller_Happiness',
+'Upper_Lip_Raiser_or_Nasolabial_Deepener_Happiness']

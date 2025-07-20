@@ -1,0 +1,137 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Angry_Nostril_Flare"
+    },
+    {
+      "id": 1,
+      "name": "Angry_disgust"
+    },
+    {
+      "id": 2,
+      "name": "BlankJoy_Micro_Expression"
+    },
+    {
+      "id": 3,
+      "name": "Blink_NA"
+    },
+    {
+      "id": 4,
+      "name": "Brow_Lowerer_Blink_Surprise"
+    },
+    {
+      "id": 5,
+      "name": "Brow_Lowerer_Disgust"
+    },
+    {
+      "id": 6,
+      "name": "Brow_Lowerer_Micro_Expression_Painful_Distress"
+    },
+    {
+      "id": 7,
+      "name": "Brow_Upper_Cheek_Raiser_Lid_Tightener_Disgust"
+    },
+    {
+      "id": 8,
+      "name": "Brow_Upper_Cheek_Raiser_Nostril_Dilator_Anger"
+    },
+    {
+      "id": 9,
+      "name": "Dimpler_Fear"
+    },
+    {
+      "id": 10,
+      "name": "Disgust_Override"
+    },
+    {
+      "id": 11,
+      "name": "Disgusted_Brow_Lowering"
+    },
+    {
+      "id": 12,
+      "name": "Duchenne_Smile"
+    },
+    {
+      "id": 13,
+      "name": "Eclectic_Bliss"
+    },
+    {
+      "id": 14,
+      "name": "Fearful_Disgust"
+    },
+    {
+      "id": 15,
+      "name": "Inner_Brow_Raiser"
+    },
+    {
+      "id": 16,
+      "name": "Joyful_Startle_Micro_Expression"
+    },
+    {
+      "id": 17,
+      "name": "Lid_Tightener_Disgust"
+    },
+    {
+      "id": 18,
+      "name": "Lip_Corner_Puller_Blink_Disgust"
+    },
+    {
+      "id": 19,
+      "name": "Lip_Corner_Puller_Happiness"
+    },
+    {
+      "id": 20,
+      "name": "Lip_Corner_Puller_Lip_Pressor_Happiness"
+    },
+    {
+      "id": 21,
+      "name": "Lip_Pressor_Surprise"
+    },
+    {
+      "id": 22,
+      "name": "Negative_Micro_Expression_Disgust"
+    },
+    {
+      "id": 23,
+      "name": "Nose_Wrinkler_Disgust"
+    },
+    {
+      "id": 24,
+      "name": "Nostril_Compressor_NA"
+    },
+    {
+      "id": 25,
+      "name": "Outer_Brow_Raiser"
+    },
+    {
+      "id": 26,
+      "name": "Positive_Micro_Expression_Happiness"
+    },
+    {
+      "id": 27,
+      "name": "Surprise_with_Disgust_Overlay"
+    },
+    {
+      "id": 28,
+      "name": "Surprised_Joy"
+    },
+    {
+      "id": 29,
+      "name": "Upper_Lid_Raiser_Fear"
+    },
+    {
+      "id": 30,
+      "name": "Upper_Lid_Raiser_Lip_Corner_Puller_Happiness"
+    },
+    {
+      "id": 31,
+      "name": "Upper_Lip_Raiser_or_Nasolabial_Deepener_Happiness"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

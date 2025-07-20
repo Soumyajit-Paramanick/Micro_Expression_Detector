@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Angry_Nostril_Flare"
+    },
+    {
+      "id": 1,
+      "name": "Angry_disgust"
+    },
+    {
+      "id": 2,
+      "name": "BlankJoy_Micro_Expression"
+    },
+    {
+      "id": 3,
+      "name": "Blink_NA"
+    },
+    {
+      "id": 4,
+      "name": "Blink_NA_type1"
+    },
+    {
+      "id": 5,
+      "name": "Blink_NA_type2"
+    },
+    {
+      "id": 6,
+      "name": "Brow_Lowerer_Blink_Surprise"
+    },
+    {
+      "id": 7,
+      "name": "Brow_Upper_Cheek_Raiser_Lid_Tightener_Disgust"
+    },
+    {
+      "id": 8,
+      "name": "Brow_Upper_Cheek_Raiser_Nostril_Dilator_Anger"
+    },
+    {
+      "id": 9,
+      "name": "Fearful_Disgust"
+    },
+    {
+      "id": 10,
+      "name": "Lip_Corner_Puller_Happiness"
+    },
+    {
+      "id": 11,
+      "name": "Lip_Corner_Puller_Lip_Pressor_Happiness"
+    },
+    {
+      "id": 12,
+      "name": "Nose_Wrinkler_Disgust"
+    },
+    {
+      "id": 13,
+      "name": "Positive_Micro_Expression_Happiness"
+    },
+    {
+      "id": 14,
+      "name": "Surprised_Joy"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

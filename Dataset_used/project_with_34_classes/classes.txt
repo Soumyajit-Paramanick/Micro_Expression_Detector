@@ -1,0 +1,15 @@
+Angry_Nostril_Flare
+Angry_disgust
+BlankJoy_Micro_Expression
+Blink_NA
+Blink_NA_type1
+Blink_NA_type2
+Brow_Lowerer_Blink_Surprise
+Brow_Upper_Cheek_Raiser_Lid_Tightener_Disgust
+Brow_Upper_Cheek_Raiser_Nostril_Dilator_Anger
+Fearful_Disgust
+Lip_Corner_Puller_Happiness
+Lip_Corner_Puller_Lip_Pressor_Happiness
+Nose_Wrinkler_Disgust
+Positive_Micro_Expression_Happiness
+Surprised_Joy
